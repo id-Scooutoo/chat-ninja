@@ -33,5 +33,5 @@ Przed rozpoczęciem instalacji upewnij się, że masz zainstalowane następując
 
 ## Wkład w projekt
 
-Jeżeli chcesz wnieść swój wkład w rozwój tego projektu, zobacz plik --> [CONTRIBUTING.md](https://github.com/id-Scooutoo/chat-ninja/blob/main/CONTRIBUTTING.md)
+Jeżeli chcesz wnieść swój wkład w rozwój tego projektu, zobacz plik --> [CONTRIBUTING.md](https://github.com/id-Scooutoo/chat-ninja/blob/main/CONTRIBUTING.md)
 
