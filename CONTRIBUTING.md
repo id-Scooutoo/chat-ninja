@@ -1,4 +1,4 @@
-# Contributing to chat-ninja
+# Contributing to Chat Ninja
 
 Dziękujemy za zainteresowanie rozwojem naszego projektu! Aby zapewnić spójność i jakość kodu, przygotowaliśmy kilka prostych zasad, które pomogą nam w efektywnej współpracy.
 
